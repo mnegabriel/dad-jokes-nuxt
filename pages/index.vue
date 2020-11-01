@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div>
     <div>
       Welcome to the best corny dad jokes website!
     </div>
